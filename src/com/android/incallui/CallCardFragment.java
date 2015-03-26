@@ -888,6 +888,7 @@ public class CallCardFragment extends BaseFragment<CallCardPresenter, CallCardPr
 
         mPrimaryCallCardContainer.setBackgroundColor(themeColors.mPrimaryColor);
         mCallButtonsContainer.setBackgroundColor(themeColors.mPrimaryColor);
+        CallButtonFragment.recolorDrawableBackground(mMoreMenuButton, themeColors);
 
         mCurrentThemeColors = themeColors;
     }
