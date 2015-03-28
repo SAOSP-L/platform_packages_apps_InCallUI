@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- 
+<!--
   ~ Copyright (C) 2013 The Android Open Source Project
   ~
   ~ Licensed under the Apache License, Version 2.0 (the "License");
@@ -148,4 +148,12 @@
     <string name="preference_category_ringtone" msgid="5197960752529332721">"Sonnerie et vibreur"</string>
     <string name="manageConferenceLabel" msgid="4691922394301969053">"Gérer la conférence téléphonique"</string>
     <string name="emergency_call_dialog_number_for_display" msgid="8373041754188879871">"Numéro d\'urgence"</string>
+
+    <!-- Text for the onscreen "Blacklist" button -->
+    <string name="onscreenBlacklistText">Liste noire</string>
+    <string name="onscreenMoreMenuText">Plus de menu</string>
+
+    <!-- Blacklist confirmation dialog -->
+    <string name="blacklist_dialog_title">Ajouter à la liste noire</string>
+    <string name="blacklist_dialog_message">Les futurs appels de <xliff:g id="number">%s</xliff:g> seront bloqués</string>
 </resources>
