@@ -156,4 +156,8 @@
     <!-- Blacklist confirmation dialog -->
     <string name="blacklist_dialog_title">Добавить в черный список</string>
     <string name="blacklist_dialog_message">Будущие звонки от <xliff:g id="number">%s</xliff:g> будут заблокированы</string>
+    
+     <!-- Text for in call recording action -->
+    <string name="onscreenRecordText">Начать/остановить запись</string>
+    <string name="call_recording_failed_message">Не удалось начать запись разговора</string>
 </resources>
